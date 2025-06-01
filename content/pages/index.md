@@ -98,7 +98,7 @@ sections:
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
-    title: ''
+    title: Contact Us
     form:
       type: FormBlock
       elementId: sign-up-form
