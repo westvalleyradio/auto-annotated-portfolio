@@ -35,7 +35,7 @@ sections:
     actions:
       - type: Button
         label: Learn more
-        altText: ''
+        altText: Instagram
         url: www.instagram.com/westvalleyradio
         showIcon: false
         icon: arrowRight
