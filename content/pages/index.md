@@ -39,7 +39,7 @@ sections:
         url: www.instagram.com/westvalleyradio
         showIcon: true
         icon: arrowRight
-        iconPosition: right
+        iconPosition: left
         style: primary
         elementId: ''
   - colors: colors-f
