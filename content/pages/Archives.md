@@ -3,7 +3,7 @@ type: PageLayout
 title: Archives
 sections:
   - type: TextSection
-    title: Archive
+    title: Archives
     subtitle: ''
     text: ''
     colors: colors-f
