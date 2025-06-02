@@ -6,7 +6,7 @@ sections:
     title: Gallery
     subtitle: ''
     text: ''
-    colors: colors-d
+    colors: colors-f
     variant: variant-a
     elementId: ''
     styles:
