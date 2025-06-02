@@ -15,16 +15,16 @@ excerpt: >-
   a huge one at that. Now you also might be wondering, why start a radio station
   it's a dying medium? you're not wrong for thinking that my dear reader,
   actually radio is evolving more than anything. It's become more accessable
-  than ever, with the internet contributing and hindering radio simultaneously.
-  With that being said, my vision for West Valley Radio is bigger than just an
-  online radio station. I envision a platform where Arizona artists/bands can be
+  than ever, esoecially with . Believe me, if I could broadcast on the airwaves
+  I would, buuut in 1996 the government passed the Telecommunications act which
+  allowed corporations like iHeartRadio to swallow up HUNDREDS of stations,
+  making it close to impossible for the community to get on the airwaves. With
+  that being said, my vision for West Valley Radio is bigger than just an online
+  radio station. I envision a platform where Arizona artists/bands can be
   showcased and given the attention FM radio stations won't. A hub for all
   things surrounding the music. All while not being tied down to a single genre.
   Interviews, visual media, live sessions, and blogs like the one you're reading
-  now, you cutie. Believe me, if I could broadcast on the airwaves I would,
-  buuut in 1996 the government passed the Telecommunications act which allowed
-  corporations like iHeartRadio to swallow up HUNDREDS of stations, making it
-  close to impossible for the community to get on the airwaves. The FCC 
+  now, you cutie. 
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
