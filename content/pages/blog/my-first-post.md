@@ -15,7 +15,8 @@ excerpt: >-
   a huge one at that. Now you also might be wondering, why start a radio station
   it's a dying medium? you're not wrong for thinking that my dear reader,
   actually radio is evolving more than anything. It's become more accessable
-  than ever. 
+  than ever. With that being said, my vision for West Valley Radio is bigger
+  than just a radio 
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
