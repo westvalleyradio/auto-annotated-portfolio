@@ -20,11 +20,6 @@
             },
             {
                 "type": "Link",
-                "label": "Gallery",
-                "url": "/info"
-            },
-            {
-                "type": "Link",
                 "label": "Archives",
                 "altText": "",
                 "url": "/Archives",
