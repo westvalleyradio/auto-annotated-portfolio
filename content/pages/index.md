@@ -33,14 +33,8 @@ sections:
         textAlign: center
     type: HeroSection
     actions: []
-    text: >+
-      <div data-type="newStreamPlayer"
-      data-publicToken="7718fcd9-4e06-49a4-964a-c4956047b37e" data-theme="light"
-      data-color="e81e4d" data-channelId="" data-rendered="false"
-      class="cstrEmbed"><a href="https\://www\.caster.fm">Shoutcast Hosting</a>
-      <a href="https\://www\.caster.fm">Stream Hosting</a> <a
-      href="https\://www\.caster.fm">Radio Server Hosting</a></div>\<script
-      src="//cdn.cloud.caster.fm//widgets/embed.js"></script>
+    text: |+
+
 
   - type: DividerSection
     title: Divider
