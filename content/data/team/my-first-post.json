@@ -1,9 +1,9 @@
 {
     "type": "Person",
     "firstName": "Tony",
-    "lastName": "Ante",
-    "role": "Founder of WVR",
-    "bio": "With over 10 years in both public and private sectors, Johnna has experience in management consultation, team building, professional development, strategic implementation, and company collaboration.",
+    "lastName": "Surname",
+    "role": "Role",
+    "bio": "Tony Ante is a Phoenix native, audio production grad, and the dude behind West Valley Radio. He lives for music, creating it. consuming it and living through it.\n",
     "image": {
         "type": "ImageBlock",
         "url": "https://assets.stackbit.com/components/images/default/default-person.png",
