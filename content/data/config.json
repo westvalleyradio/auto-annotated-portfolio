@@ -34,15 +34,7 @@
                 "elementId": ""
             }
         ],
-        "socialLinks": [
-            {
-                "type": "Social",
-                "altText": "Instagram",
-                "label": "Instagram",
-                "url": "https://instagram.com/westvalleyradio",
-                "icon": "twitter"
-            }
-        ],
+        "socialLinks": [],
         "styles": {
             "self": {
                 "width": "full"
