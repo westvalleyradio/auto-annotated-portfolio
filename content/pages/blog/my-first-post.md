@@ -17,7 +17,7 @@ excerpt: >-
   actually radio is evolving more than anything. It's become more accessable
   than ever, with the internet contributing and hindering radio simultaneously.
   With that being said, my vision for West Valley Radio is bigger than just an
-  radio station
+  radio station Fuck iHeartRadio
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
