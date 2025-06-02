@@ -15,16 +15,6 @@
             },
             {
                 "type": "Link",
-                "label": "Interviews",
-                "url": "/projects"
-            },
-            {
-                "type": "Link",
-                "label": "Blog",
-                "url": "/blog"
-            },
-            {
-                "type": "Link",
                 "label": "Archives",
                 "altText": "",
                 "url": "/Archives",
@@ -32,6 +22,16 @@
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "Interviews",
+                "url": "/projects"
+            },
+            {
+                "type": "Link",
+                "label": "Blog",
+                "url": "/blog"
             }
         ],
         "socialLinks": [],
