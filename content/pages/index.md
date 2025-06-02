@@ -32,43 +32,19 @@ sections:
         flexDirection: row-reverse
         textAlign: center
     type: HeroSection
-    actions:
-      - type: Button
-        label: Instagram
-        altText: Instagram
-        url: www.instagram.com/westvalleyradio
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-  - colors: colors-f
-    type: FeaturedProjectsSection
+    actions: []
+  - type: DividerSection
+    title: Divider
     elementId: ''
-    actions:
-      - type: Link
-        label: See all projects
-        url: /projects
-    showDate: false
-    showDescription: true
-    showFeaturedImage: true
-    showReadMoreLink: true
-    variant: variant-b
-    projects:
-      - content/pages/projects/project-two.md
-      - content/pages/projects/project-three.md
-      - content/pages/projects/project-one.md
     styles:
       self:
-        height: auto
         width: wide
         padding:
-          - pt-24
-          - pb-24
+          - pt-36
+          - pb-36
           - pl-4
           - pr-4
-        textAlign: left
-    subtitle: Projects
+        borderWidth: 1
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
@@ -98,19 +74,12 @@ sections:
           isRequired: true
           width: 1/2
           type: EmailFormControl
-        - name: address
-          label: Address
-          hideLabel: true
-          placeholder: Address
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
         - name: updatesConsent
           label: Sign me up to recieve updates
           isRequired: false
           width: full
           type: CheckboxFormControl
-      submitLabel: "Submit \U0001F680"
+      submitLabel: 'Submit '
       styles:
         self:
           textAlign: center
