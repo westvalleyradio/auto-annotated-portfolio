@@ -4,7 +4,7 @@ title: Interviews
 sections:
   - type: TextSection
     title: Interviews
-    subtitle: The section subtitle
+    subtitle: ''
     text: >-
       Start adding sections by clicking the + button on the page or through the
       sidebar.
