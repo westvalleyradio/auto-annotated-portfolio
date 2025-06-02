@@ -15,6 +15,11 @@
             },
             {
                 "type": "Link",
+                "label": "Blog",
+                "url": "/blog"
+            },
+            {
+                "type": "Link",
                 "label": "Interviews",
                 "url": "/projects"
             },
@@ -27,11 +32,6 @@
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "elementId": ""
-            },
-            {
-                "type": "Link",
-                "label": "Blog",
-                "url": "/blog"
             }
         ],
         "socialLinks": [],
