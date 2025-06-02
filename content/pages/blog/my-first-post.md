@@ -24,8 +24,7 @@ excerpt: >-
   now, you cutie. Believe me, if I could broadcast on the airwaves I would,
   buuut in 1996 the government passed the Telecommunications act which allowed
   corporations like iHeartRadio to swallow up HUNDREDS of stations, making it
-  close to impossible for the community to get on the airwaves. Surprise
-  surprise the government owns the 
+  close to impossible for the community to get on the airwaves. The FCC 
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
