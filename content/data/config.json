@@ -15,6 +15,11 @@
             },
             {
                 "type": "Link",
+                "label": "Interviews",
+                "url": "/projects"
+            },
+            {
+                "type": "Link",
                 "label": "Archives",
                 "altText": "",
                 "url": "/Archives",
@@ -22,11 +27,6 @@
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "elementId": ""
-            },
-            {
-                "type": "Link",
-                "label": "Interviews",
-                "url": "/projects"
             },
             {
                 "type": "Link",
