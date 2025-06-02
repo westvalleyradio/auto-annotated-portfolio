@@ -36,7 +36,7 @@ sections:
       - type: Button
         label: Instagram
         altText: Instagram
-        url: www.instagram.com/westvalleyradio
+        url: instagram.com/westvalleyradio
         showIcon: true
         icon: arrowRight
         iconPosition: right
