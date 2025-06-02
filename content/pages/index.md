@@ -32,16 +32,7 @@ sections:
         flexDirection: row-reverse
         textAlign: center
     type: HeroSection
-    actions:
-      - type: Button
-        label: Instagram
-        altText: Instagram
-        url: instagram.com/westvalleyradio
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
+    actions: []
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
