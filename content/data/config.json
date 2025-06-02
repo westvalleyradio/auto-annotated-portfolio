@@ -10,11 +10,6 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Gallery",
-                "url": "/info"
-            },
-            {
-                "type": "Link",
                 "label": "Blog",
                 "url": "/blog"
             },
@@ -22,6 +17,11 @@
                 "type": "Link",
                 "label": "Interviews",
                 "url": "/projects"
+            },
+            {
+                "type": "Link",
+                "label": "Gallery",
+                "url": "/info"
             },
             {
                 "type": "Link",
