@@ -3,8 +3,9 @@ type: PostLayout
 title: Oh Wow Another Radio Station
 date: '2025-06-01'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Howdy, some of you reading this might know me personally (or not), and might
+  be wondering, "Uhhh what the hell you doin boy whatcha think you Tino
+  Cochino?" 
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
