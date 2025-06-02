@@ -10,13 +10,13 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Gallery",
-                "url": "/info"
+                "label": "Blog",
+                "url": "/blog"
             },
             {
                 "type": "Link",
                 "label": "Interviews",
-                "url": "/projects"
+                "url": "/Interviews"
             },
             {
                 "type": "Link",
@@ -30,8 +30,13 @@
             },
             {
                 "type": "Link",
-                "label": "Blog",
-                "url": "/blog"
+                "label": "Gallery",
+                "altText": "",
+                "url": "/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
             }
         ],
         "socialLinks": [],
