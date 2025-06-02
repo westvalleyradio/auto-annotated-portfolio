@@ -1,0 +1,14 @@
+{
+    "type": "Person",
+    "firstName": "Tony",
+    "lastName": "Surname",
+    "role": "Role",
+    "bio": "Tony Ante is a Phoenix native, audio production grad, and the dude behind West Valley Radio. He lives for music, creating it. consuming it and living through it.\n",
+    "image": {
+        "type": "ImageBlock",
+        "url": "/images/000313350033_33a 2.png",
+        "altText": "Tony Ante",
+        "caption": "",
+        "elementId": ""
+    }
+}

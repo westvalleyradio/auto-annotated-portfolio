@@ -1,0 +1,25 @@
+---
+type: PostLayout
+title: Oh Wow Another Radio Station
+date: '2025-06-01'
+excerpt: >-
+  Howdy, some of you reading this might know me personally (or not), and might
+  be wondering, "Uhhh what the hell you doin boy whatcha think you Tino
+  Cochino?" 
+featuredImage:
+  type: ImageBlock
+  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  altText: Post thumbnail image
+  caption: Caption of the image
+  elementId: ''
+addTitleSuffix: true
+colors: colors-a
+backgroundImage:
+  type: BackgroundImage
+  url: /images/bg2.jpg
+  backgroundSize: cover
+  backgroundPosition: center
+  backgroundRepeat: no-repeat
+  opacity: 100
+author: content/data/team/my-first-post.json
+---

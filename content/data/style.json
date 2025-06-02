@@ -4,13 +4,13 @@
     "onLight": "#050806",
     "dark": "#000000",
     "onDark": "#FBFFF2",
-    "primary": "#0804F6",
+    "primary": "#ff02da",
     "onPrimary": "#FBFFF2",
-    "secondary": "#FE491F",
+    "secondary": "#790000",
     "onSecondary": "#050806",
     "complementary": "#565862",
     "onComplementary": "#FBFFF2",
-    "fontBody": "\"DM Mono\", monospace",
-    "headingWeight": "400",
+    "fontBody": "\"Azeret Mono\", monospace",
+    "headingWeight": "500",
     "headingCase": "uppercase"
 }
