@@ -13,8 +13,8 @@ excerpt: >-
   radio all the time, on the way to school, road trips with my family, even on a
   shitty little mp3 player. It wasn't the only source of discovering music, but
   a huge one at that. Now you also might be wondering, why start a radio station
-  it's a dying medium,  you're not wrong for thinking that but to be more
-  accurate 
+  it's a dying medium? you're not wrong for thinking that my dear reader,
+  actually radio is 
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
