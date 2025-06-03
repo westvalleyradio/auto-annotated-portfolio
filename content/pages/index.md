@@ -38,7 +38,7 @@ sections:
         altText: ''
         url: 'https://media.streambrothers.com/public/8112'
         showIcon: false
-        icon: arrowRight
+        icon: play
         iconPosition: right
         style: primary
         elementId: ''
