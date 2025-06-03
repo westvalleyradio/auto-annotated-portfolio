@@ -33,7 +33,49 @@ sections:
         textAlign: center
     type: HeroSection
     actions: []
-    text: "<div data-type=\"newStreamPlayer\" data-publicToken=\"7718fcd9-4e06-49a4-964a-c4956047b37e\" data-theme=\"light\" data-color=\"e81e4d\" data-channelId=\"\" data-rendered=\"false\" class=\"cstrEmbed\">\n\_\_<a href=\"https\\://www\\.caster.fm\">Shoutcast Hosting</a> \n\_\_<a href=\"https\\://www\\.caster.fm\">Stream Hosting</a> \n\_\_<a href=\"https\\://www\\.caster.fm\">Radio Server Hosting</a>\n</div>\n\\<script src=\"//cdn.cloud.caster.fm//widgets/embed.js\"></script>\n\n"
+    text: >+
+      <!-- BEGINS: AUTO-GENERATED MUSES RADIO PLAYER CODE -->
+
+
+      \<script type="text/javascript"
+      src="https\://hosted.muses.org/mrp.js"></script>
+
+
+      \<script type="text/javascript">
+
+      MRP.insert({
+
+      'url':'http\://localhost/',
+
+      'lang':'en',
+
+      'volume':100,
+
+      'autoplay':false,
+
+      'forceHTML5':true,
+
+      'jsevents':true,
+
+      'buffering':0,
+
+      'title':'West Valley Radio',
+
+      'wmode':'transparent',
+
+      'skin':'oldstereo',
+
+      'width':318,
+
+      'height':130
+
+      });
+
+      </script>
+
+
+      <!-- ENDS: AUTO-GENERATED MUSES RADIO PLAYER CODE -->
+
   - type: DividerSection
     title: Divider
     elementId: ''
