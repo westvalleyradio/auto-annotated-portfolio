@@ -36,7 +36,7 @@ sections:
       - type: Button
         label: Learn more
         altText: ''
-        url: ''
+        url: 'https://media.streambrothers.com/public/8112'
         showIcon: false
         icon: arrowRight
         iconPosition: right
