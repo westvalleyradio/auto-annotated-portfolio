@@ -32,7 +32,16 @@ sections:
         flexDirection: row-reverse
         textAlign: center
     type: HeroSection
-    actions: []
+    actions:
+      - type: Button
+        label: Learn more
+        altText: ''
+        url: '/https://fastcast4u.com/player/westvalleyradio/'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     text: |+
 
 
