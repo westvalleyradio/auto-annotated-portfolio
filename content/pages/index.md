@@ -33,44 +33,7 @@ sections:
         textAlign: center
     type: HeroSection
     actions: []
-    text: >+
-
-
-      \<script type="text/javascript"
-      src="<https://hosted.muses.org/mrp.js>"></script>
-
-
-      \<script type="text/javascript">
-
-      MRP.insert({
-
-      'url':'http\://localhost/',
-
-      'lang':'en',
-
-      'volume':100,
-
-      'autoplay':false,
-
-      'forceHTML5':true,
-
-      'jsevents':true,
-
-      'buffering':0,
-
-      'title':'West Valley Radio',
-
-      'wmode':'transparent',
-
-      'skin':'oldstereo',
-
-      'width':318,
-
-      'height':130
-
-      });
-
-
+    text: "\\<script type=\"text/javascript\" src=\"https\\://hosted.muses.org/mrp.js\"></script>\n\n\\<script type=\"text/javascript\">\nMRP.insert({\n\_\_'url':'http\\://YOUR-LIVE-STREAM-URL-HERE',\n\_\_'lang':'en',\n\_\_'volume':100,\n\_\_'autoplay':false,\n\_\_'forceHTML5':true,\n\_\_'jsevents':true,\n\_\_'buffering':0,\n\_\_'title':'West Valley Radio',\n\_\_'wmode':'transparent',\n\_\_'skin':'oldstereo',\n\_\_'width':318,\n\_\_'height':130\n});\n</script>\n\n"
   - type: DividerSection
     title: Divider
     elementId: ''
