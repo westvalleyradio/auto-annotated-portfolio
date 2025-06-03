@@ -36,7 +36,7 @@ sections:
       - type: Button
         label: Learn more
         altText: ''
-        url: '/https://fastcast4u.com/player/westvalleyradio/'
+        url: ''
         showIcon: false
         icon: arrowRight
         iconPosition: right
