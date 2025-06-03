@@ -32,7 +32,7 @@
                 "type": "Link",
                 "label": "Gallery",
                 "altText": "",
-                "url": "/",
+                "url": "/Gallery",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
