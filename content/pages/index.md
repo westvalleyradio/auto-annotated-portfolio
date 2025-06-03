@@ -34,7 +34,7 @@ sections:
     type: HeroSection
     actions:
       - type: Button
-        label: Learn more
+        label: 'LIVE '
         altText: ''
         url: 'https://media.streambrothers.com/public/8112'
         showIcon: false
