@@ -32,8 +32,21 @@ sections:
         flexDirection: row-reverse
         textAlign: center
     type: HeroSection
-    actions: []
-    text: "\\<script type=\"text/javascript\" src=\"https\\://hosted.muses.org/mrp.js\"></script>\n\n\\<script type=\"text/javascript\">\nMRP.insert({\n\_\_'url':'http\\://YOUR-LIVE-STREAM-URL-HERE',\n\_\_'lang':'en',\n\_\_'volume':100,\n\_\_'autoplay':false,\n\_\_'forceHTML5':true,\n\_\_'jsevents':true,\n\_\_'buffering':0,\n\_\_'title':'West Valley Radio',\n\_\_'wmode':'transparent',\n\_\_'skin':'oldstereo',\n\_\_'width':318,\n\_\_'height':130\n});\n</script>\n\n"
+    actions:
+      - type: Button
+        label: 'LIVE '
+        altText: ''
+        url: 'https://media.streambrothers.com/public/8112'
+        showIcon: false
+        icon: play
+        iconPosition: right
+        style: primary
+        elementId: ''
+    text: |+
+
+
+
+
   - type: DividerSection
     title: Divider
     elementId: ''
