@@ -37,7 +37,7 @@ sections:
         label: 'LIVE '
         altText: ''
         url: 'https://media.streambrothers.com/public/8112'
-        showIcon: false
+        showIcon: true
         icon: play
         iconPosition: right
         style: primary
