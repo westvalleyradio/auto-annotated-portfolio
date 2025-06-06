@@ -47,6 +47,18 @@ sections:
 
 
 
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: narrow
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        borderWidth: 1
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
