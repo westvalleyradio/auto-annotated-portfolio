@@ -34,10 +34,10 @@ sections:
     type: HeroSection
     actions:
       - type: Button
-        label: 'LIVE '
+        label: 'LISTEN LIVE '
         altText: ''
         url: 'https://media.streambrothers.com/public/8112'
-        showIcon: false
+        showIcon: true
         icon: play
         iconPosition: right
         style: primary
@@ -52,7 +52,7 @@ sections:
     elementId: ''
     styles:
       self:
-        width: wide
+        width: narrow
         padding:
           - pt-36
           - pb-36
