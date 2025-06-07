@@ -33,18 +33,8 @@ sections:
         textAlign: center
     type: HeroSection
     actions: []
-    text: >+
-      <img data-widget="mcp-cover-image" data-name="8112" style="float:
-      left;margin-right: 5px;height: 85px;" />
-
-      Status: <span data-widget="mcp-stream-status" data-name="8112"
-      data-online-text="Online" data-offline-text="Offline"></span><br />
-
-      Now Playing: <span data-widget="mcp-custom-text" data-name="8112"
-      data-format="%nowplaying%"></span><br />
-
-      Connections: <span data-widget="mcp-custom-text" data-name="8112"
-      data-format="%connections%"></span><br />
+    text: |2+
+       <iframe width="100%" height="330" src="https\://media.streambrothers.com/AudioPlayer/8112?mount=&" border="0" style="border: 0;"></iframe>
 
   - type: DividerSection
     title: Divider
