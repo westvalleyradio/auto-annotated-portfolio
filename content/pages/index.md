@@ -33,11 +33,7 @@ sections:
         textAlign: center
     type: HeroSection
     actions: []
-    text: >+
-      <iframe width="100%" height="330"
-      src="https\://media.streambrothers.com/AudioPlayer/8112?mount=&"
-      border="0" style="border: 0;"></iframe>
-
+    text: "<div id=\"radio-player\">\n\_\_<iframe \n\_\_\_\_width=\"100%\" \n\_\_\_\_height=\"330\" \n\_\_\_\_src=\"https\\://media.streambrothers.com/AudioPlayer/8112?mount=\" \n\_\_\_\_style=\"border: 0;\"\n\_\_\_\_allow=\"autoplay\"\n\_\_></iframe>\n</div>\n\n<style>\n\_\_#radio-player {\n\_\_\_\_max-width: 400px;\n\_\_\_\_margin: 30px auto;\n\_\_\_\_border-radius: 15px;\n\_\_\_\_overflow: hidden;\n\_\_\_\_box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);\n\_\_\_\_border: 2px solid #444;\n\_\_}\n\n\_\_#radio-player iframe {\n\_\_\_\_display: block;\n\_\_\_\_width: 100%;\n\_\_\_\_height: 330px;\n\_\_}\n</style>\n\n"
   - type: DividerSection
     title: Divider
     elementId: ''
