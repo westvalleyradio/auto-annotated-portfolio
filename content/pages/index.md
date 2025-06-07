@@ -32,17 +32,9 @@ sections:
         flexDirection: row-reverse
         textAlign: center
     type: HeroSection
-    actions:
-      - type: Button
-        label: 'LISTEN LIVE '
-        altText: ''
-        url: 'https://media.streambrothers.com/public/8112'
-        showIcon: true
-        icon: play
-        iconPosition: right
-        style: primary
-        elementId: ''
-    text: |+
+    actions: []
+    text: |2+
+       <iframe width="100%" height="330" src="https://media.streambrothers.com/AudioPlayer/8112?mount=&" border="0" style="border: 0;"></iframe>
 
 
 
