@@ -34,7 +34,7 @@ sections:
     type: HeroSection
     actions: []
     text: |2+
-       <iframe width="100%" height="330" src="https\://media.streambrothers.com/AudioPlayer/8112?mount=&" border="0" style="border: 0;"></iframe>
+       <iframe width="100%" height="330" src="https://media.streambrothers.com/AudioPlayer/8112?mount=&" border="0" style="border: 0;"></iframe>
 
   - type: DividerSection
     title: Divider
