@@ -33,43 +33,7 @@ sections:
         textAlign: center
     type: HeroSection
     actions: []
-    text: >+
-      \<script type="text/javascript"
-      src="https\://hosted.muses.org/mrp.js"></script>
-
-
-      \<script type="text/javascript">
-
-      MRP.insert({
-
-      'url':'media.streambrothers.com/stream/8112',
-
-      'lang':'en',
-
-      'volume':100,
-
-      'autoplay':false,
-
-      'forceHTML5':true,
-
-      'jsevents':true,
-
-      'buffering':0,
-
-      'title':'West Valley Radio',
-
-      'wmode':'transparent',
-
-      'skin':'cassette',
-
-      'width':200,
-
-      'height':120
-
-      });
-
-      </script>
-
+    text: "<iframe \n\_\_width=\"200\" \n\_\_height=\"120\" \n\_\_src=\"https\\://hosted.muses.org/yu2c9k1snhq4pgh9cxpgvs1g5e/West\\_Valley\\_Radio\" \n\_\_frameborder=\"0\" \n\_\_allowtransparency=\"true\" \n\_\_scrolling=\"no\">\n</iframe>\n\n"
   - type: DividerSection
     title: Divider
     elementId: ''
