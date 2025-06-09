@@ -5,7 +5,7 @@ sections:
   - type: TextSection
     title: Radio Player
     subtitle: ''
-    text: ''
+    text: "<iframe \n\_\_src=\"https\\://magical-licorice-dc9c80.netlify.app/\" \n\_\_width=\"100%\" \n\_\_height=\"160\" \n\_\_style=\"border: none; overflow: hidden;\" \n\_\_scrolling=\"no\">\n</iframe>\n\n"
     colors: colors-f
     variant: variant-a
     elementId: ''
