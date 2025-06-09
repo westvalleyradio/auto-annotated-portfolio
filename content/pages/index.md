@@ -33,7 +33,9 @@ sections:
         textAlign: center
     type: HeroSection
     actions: []
-    text: "<iframe \n\_\_width=\"200\" \n\_\_height=\"120\" \n\_\_src=\"https\\://hosted.muses.org/yu2c9k1snhq4pgh9cxpgvs1g5e/West\\_Valley\\_Radio\" \n\_\_frameborder=\"0\" \n\_\_allowtransparency=\"true\" \n\_\_scrolling=\"no\">\n</iframe>\n\n"
+    text: |2+
+       <iframe width="100%" height="330" src="https\://media.streambrothers.com/AudioPlayer/8112?mount=&" border="0" style="border: 0;"></iframe>
+
   - type: DividerSection
     title: Divider
     elementId: ''
