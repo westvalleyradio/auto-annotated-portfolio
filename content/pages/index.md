@@ -33,7 +33,7 @@ sections:
         textAlign: center
     type: HeroSection
     actions: []
-    text: "<iframe \n\_\_src=\"https://magical-licorice-dc9c80.netlify.app/\" \n\_\_width=\"100%\" \n\_\_height=\"400\" \n\_\_style=\"border: none; overflow: hidden;\" \n\_\_scrolling=\"no\">\n</iframe>\n\n"
+    text: "<iframe \n\_\_src=\"https://magical-licorice-dc9c80.netlify.app/\" \n\_\_width=\"100%\" \n\_\_height=\"700\" \n\_\_style=\"border: none; overflow: hidden;\" \n\_\_scrolling=\"no\">\n</iframe>\n\n"
   - type: DividerSection
     title: Divider
     elementId: ''
