@@ -33,11 +33,7 @@ sections:
         textAlign: center
     type: HeroSection
     actions: []
-    text: >+
-      <iframe width="100%" height="330"
-      src="https://media.streambrothers.com/AudioPlayer/8112?mount=" border="0"
-      style="border: 0;"></iframe>
-
+    text: "<iframe \n\_\_src=\"https\\://magical-licorice-dc9c80.netlify.app/\" \n\_\_width=\"100%\" \n\_\_height=\"160\" \n\_\_style=\"border: none; overflow: hidden;\" \n\_\_scrolling=\"no\">\n</iframe>\n\n"
   - type: DividerSection
     title: Divider
     elementId: ''
