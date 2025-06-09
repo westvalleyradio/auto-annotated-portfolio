@@ -33,7 +33,43 @@ sections:
         textAlign: center
     type: HeroSection
     actions: []
-    text: "<iframe \n\_\_src=\"https://unrivaled-rolypoly-de3181.netlify.app/\" \n\_\_width=\"100%\" \n\_\_height=\"1000\" \n\_\_style=\"border: none; overflow: hidden;\" \n\_\_scrolling=\"no\">\n</iframe>\n"
+    text: >+
+      \<script type="text/javascript"
+      src="https\://hosted.muses.org/mrp.js"></script>
+
+
+      \<script type="text/javascript">
+
+      MRP.insert({
+
+      'url':'media.streambrothers.com/stream/8112',
+
+      'lang':'en',
+
+      'volume':100,
+
+      'autoplay':false,
+
+      'forceHTML5':true,
+
+      'jsevents':true,
+
+      'buffering':0,
+
+      'title':'West Valley Radio',
+
+      'wmode':'transparent',
+
+      'skin':'cassette',
+
+      'width':200,
+
+      'height':120
+
+      });
+
+      </script>
+
   - type: DividerSection
     title: Divider
     elementId: ''
