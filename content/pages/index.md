@@ -37,17 +37,8 @@ sections:
         borderRadius: none
     type: HeroSection
     actions: []
-    text: >2+
-
-
-        </style>
-      </head>
-
-      <body>
-        <h1 class="pride-text">West Valley Radio</h1>
-      </body>
-
-      </html>
+    text: >+
+      <h1 class="pride-text">West Valley Radio</h1>
 
 
       <div style="max-width: 400px; margin: 20px auto; border-radius: 12px;
