@@ -37,20 +37,7 @@ sections:
         borderRadius: none
     type: HeroSection
     actions: []
-    text: >+
-      <h1 class="pride-text">West Valley Radio</h1>
-
-
-      <div style="max-width: 400px; margin: 20px auto; border-radius: 12px;
-      overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
-        <iframe 
-          src="https://media.streambrothers.com/AudioPlayer/8112?mount=stream" 
-          width="100%" 
-          height="120" 
-          style="border: 0;">
-        </iframe>
-      </div>
-
+    text: "<h1>\n  <span style=\"color: red;\">W</span>\n  <span style=\"color: orange;\">e</span>\n  <span style=\"color: yellow;\">s</span>\n  <span style=\"color: green;\">t</span>\n  <span style=\"color: blue;\">\\\_</span>\n  <span style=\"color: indigo;\">V</span>\n  <span style=\"color: violet;\">a</span>\n  <span style=\"color: red;\">l</span>\n  <span style=\"color: orange;\">l</span>\n  <span style=\"color: yellow;\">e</span>\n  <span style=\"color: green;\">y</span>\n  <span style=\"color: blue;\">\\\_</span>\n  <span style=\"color: indigo;\">R</span>\n  <span style=\"color: violet;\">a</span>\n  <span style=\"color: red;\">d</span>\n  <span style=\"color: orange;\">i</span>\n  <span style=\"color: yellow;\">o</span>\n</h1>\n\n<div style=\"max-width: 400px; margin: 20px auto; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.2);\">\n  <iframe \n    src=\"https://media.streambrothers.com/AudioPlayer/8112?mount=stream\" \n    width=\"100%\" \n    height=\"120\" \n    style=\"border: 0;\">\n  </iframe>\n</div>\n\n"
   - type: DividerSection
     title: Divider
     elementId: ''
