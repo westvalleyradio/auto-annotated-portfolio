@@ -50,7 +50,11 @@ sections:
         <iframe src="https://media.streambrothers.com/AudioPlayer/8112?mount=stream" width="100%" height="120" style="border: 0;"></iframe>
       </div>
 
-       \<script id="cid0020000411136872943" data-cfasync="false" async src="//st.chatango.com/js/gz/emb.js" style="width: 290px;height: 290px;">{"handle":"westvalley","arch":"js","styles":{"a":"cc66cc","b":100,"c":"000000","d":"000000","k":"cc66cc","l":"cc66cc","m":"cc66cc","p":"10","q":"cc66cc","r":100,"t":0,"surl":0,"fwtickm":1}}</script>
+
+      <iframe
+        src="https://chatango.com/embed/chat?chat=westvalley\&style=smooth"
+        style="width: 100%; height: 500px; border: none;">
+      </iframe>
 
   - type: DividerSection
     title: Divider
