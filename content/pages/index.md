@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: West Valley Radio
-    subtitle: <h1 class="rainbow-text">West Valley Radio</h1>
+    subtitle: ''
     styles:
       self:
         height: auto
