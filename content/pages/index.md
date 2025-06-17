@@ -55,10 +55,6 @@ sections:
       </div>
 
 
-
-
-
-
       <div style="max-width: 400px; margin: 20px auto; border-radius: 12px;
       overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
         <iframe 
