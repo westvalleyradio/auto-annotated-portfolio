@@ -37,7 +37,7 @@ sections:
         borderRadius: none
     type: HeroSection
     actions: []
-    text: >+
+    text: >
       <h1 style="font-size: 2.5rem; font-weight: bold; text-align: center;">
         <span style="background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); 
                      -webkit-background-clip: text;
@@ -52,12 +52,11 @@ sections:
 
 
       <iframe
-        src="https\://tlk.io/westvalleyradio"
-        width="100%"
-        height="500"
+        src="https://tlk.io/westvalleyradio"
+        width="50%"
+        height="200"
         style="border: none;">
       </iframe>
-
   - type: DividerSection
     title: Divider
     elementId: ''
