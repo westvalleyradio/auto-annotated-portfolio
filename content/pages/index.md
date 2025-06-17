@@ -34,7 +34,23 @@ sections:
     type: HeroSection
     actions: []
     text: >+
-      <h1 class="pride-text">West Valley Radio</h1>
+      <style>
+        .pride-text {
+          background: linear-gradient(270deg, red, orange, yellow, green, blue, indigo, violet, red);
+          background-size: 1500% 1500%;
+          -webkit-background-clip: text;
+          -webkit-text-fill-color: transparent;
+          animation: rainbow-shine 10s ease infinite;
+          font-weight: bold;
+          font-size: 3rem;
+        }
+
+        @keyframes rainbow-shine {
+          0% { background-position: 0% 50%; }
+          50% { background-position: 100% 50%; }
+          100% { background-position: 0% 50%; }
+        }
+      </style>
 
 
       <div style="max-width: 400px; margin: 20px auto; border-radius: 12px;
