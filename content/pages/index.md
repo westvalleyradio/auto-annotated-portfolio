@@ -32,6 +32,7 @@ sections:
         flexDirection: row-reverse
         textAlign: center
         borderColor: border-(--theme-primary)
+        borderWidth: 2
     type: HeroSection
     actions: []
     text: >+
