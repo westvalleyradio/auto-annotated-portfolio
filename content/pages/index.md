@@ -53,7 +53,7 @@ sections:
 
       <iframe
         src="https://chatango.com/embed/chat?chat=westvalley\&style=smooth"
-        style="width: 100%; height: 500px; border: none;">
+        style="width: 50%; height: 200px; border: none;">
       </iframe>
 
   - type: DividerSection
