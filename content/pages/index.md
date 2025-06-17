@@ -33,6 +33,7 @@ sections:
         textAlign: center
         borderColor: border-(--theme-primary)
         borderWidth: 6
+        borderStyle: double
     type: HeroSection
     actions: []
     text: >+
