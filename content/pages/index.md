@@ -38,7 +38,6 @@ sections:
     type: HeroSection
     actions: []
     text: >+
-      <!DOCTYPE html>
 
 
       <html lang="en">
@@ -55,15 +54,19 @@ sections:
             height: 100vh;
           }
 
-          h1.pride-text {
-            font-size: 4rem;
-            font-weight: bold;
-            background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
-            background-clip: text;
-            -webkit-background-clip: text;
-            color: transparent;
-            -webkit-text-fill-color: transparent;
-          }
+      ```
+
+      h1.pride-text {
+        font-size: 4rem;
+        font-weight: bold;
+        background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+        background-clip: text;
+        -webkit-background-clip: text;
+        color: transparent;
+        -webkit-text-fill-color: transparent;
+      }
+
+      ```
 
         </style>
       </head>
@@ -73,8 +76,6 @@ sections:
       </body>
 
       </html>
-
-
 
 
       <div style="max-width: 400px; margin: 20px auto; border-radius: 12px;
