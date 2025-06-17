@@ -33,7 +33,7 @@ sections:
         textAlign: center
     type: HeroSection
     actions: []
-    text: >+
+    text: >
       <div style="max-width: 400px; margin: 20px auto; border-radius: 12px;
       overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
         <iframe 
@@ -56,7 +56,7 @@ sections:
 
       s1.async=true;
 
-      s1.src='https\://embed.tawk.to/685108bc0fc35c191744afa7/1itu8k8c9';
+      s1.src='https://embed.tawk.to/685108bc0fc35c191744afa7/1itu8k8c9';
 
       s1.charset='UTF-8';
 
@@ -67,7 +67,6 @@ sections:
       })();
 
       </script>
-
   - type: DividerSection
     title: Divider
     elementId: ''
