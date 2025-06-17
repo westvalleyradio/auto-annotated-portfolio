@@ -34,7 +34,7 @@ sections:
     type: HeroSection
     actions: []
     text: >+
-      <h1 class="rainbow-text">West Valley Radio</h1>
+      <h1 class="pride-text">West Valley Radio</h1>
 
 
       <div style="max-width: 400px; margin: 20px auto; border-radius: 12px;
