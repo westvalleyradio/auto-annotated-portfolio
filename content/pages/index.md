@@ -31,7 +31,7 @@ sections:
           - pr-4
         flexDirection: row-reverse
         textAlign: center
-        borderColor: border-(--theme-primary)
+        borderColor: border-(--theme-light)
         borderWidth: 6
         borderStyle: double
         borderRadius: none
