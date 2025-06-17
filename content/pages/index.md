@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: West Valley Radio
+    title: <h1 class="pride-text">West Valley Radio</h1>
     subtitle: ''
     styles:
       self:
