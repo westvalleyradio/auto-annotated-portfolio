@@ -45,41 +45,10 @@ sections:
                      display: inline-block;">
           West Valley Radio
         </span>
-      </h1>
-
-
-      <div style="max-width: 400px; margin: 20px auto; border-radius: 12px;
+      </h1><div style="max-width: 400px; margin: 20px auto; border-radius: 12px;
       overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
         <iframe src="https://media.streambrothers.com/AudioPlayer/8112?mount=stream" width="100%" height="120" style="border: 0;"></iframe>
       </div>
-
-
-
-
-      \<script type="text/javascript">
-
-      var Tawk\_API=Tawk\_API||{}, Tawk\_LoadStart=new Date();
-
-      (function(){
-
-      var
-      s1=document.createElement("script"),s0=document.getElementsByTagName("script")\[0];
-
-      s1.async=true;
-
-      s1.src='https://embed.tawk.to/685108bc0fc35c191744afa7/1itu8k8c9';
-
-      s1.charset='UTF-8';
-
-      s1.setAttribute('crossorigin','\*');
-
-      s0.parentNode.insertBefore(s1,s0);
-
-      })();
-
-      </script>
-
-
 
   - type: DividerSection
     title: Divider
