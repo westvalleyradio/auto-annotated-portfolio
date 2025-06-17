@@ -33,16 +33,13 @@ sections:
         textAlign: center
     type: HeroSection
     actions: []
-    text: >+
-      <div style="max-width: 400px; margin: 0 auto; border-radius: 12px;
-      overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
-        <iframe 
-          src="https\://media.streambrothers.com/AudioPlayer/8112?mount=" 
-          width="100%" 
-          height="120" 
-          style="border: 0;">
-        </iframe>
-      </div>
+    text: |+
+      <iframe 
+        src="https\://media.streambrothers.com/AudioPlayer/8112?mount=stream" 
+        width="100%" 
+        height="120" 
+        style="border: 0;">
+      </iframe>
 
   - type: DividerSection
     title: Divider
