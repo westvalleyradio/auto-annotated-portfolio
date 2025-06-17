@@ -51,9 +51,6 @@ sections:
       </div>
 
 
-      <!DOCTYPE html>
-
-
       <html>
         <body>
           <iframe
@@ -64,7 +61,7 @@ sections:
             marginheight="0"
             marginwidth="0"
             allowtransparency="true"
-            src="https\://chatroll.com/embed/chat/west-valley-radio?id=oASwLHur4OG\&platform=html">
+            src="https://chatroll.com/embed/chat/west-valley-radio?id=oASwLHur4OG\&platform=html">
           </iframe>
         </body>
       </html>
