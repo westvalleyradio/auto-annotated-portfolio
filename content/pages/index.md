@@ -51,20 +51,9 @@ sections:
       </div>
 
 
-      <html>
-        <body>
-          <iframe
-            width="450"
-            height="350"
-            frameborder="0"
-            scrolling="no"
-            marginheight="0"
-            marginwidth="0"
-            allowtransparency="true"
-            src="https://chatroll.com/embed/chat/west-valley-radio?id=oASwLHur4OG\&platform=html">
-          </iframe>
-        </body>
-      </html>
+      <iframe width="450px" height="350px" frameborder="0" scrolling="no"
+      marginheight="0" marginwidth="0" allowtransparency="true"
+      src="https://chatroll.com/embed/chat/west-valley-radio?id=oASwLHur4OG\&platform=html"></iframe>
 
   - type: DividerSection
     title: Divider
