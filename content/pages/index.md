@@ -45,12 +45,19 @@ sections:
                      display: inline-block;">
           West Valley Radio
         </span>
-      </h1>
-
-
-      <div style="max-width: 400px; margin: 20px auto; border-radius: 12px;
+      </h1><div style="max-width: 400px; margin: 20px auto; border-radius: 12px;
       overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
         <iframe src="https://media.streambrothers.com/AudioPlayer/8112?mount=stream" width="100%" height="120" style="border: 0;"></iframe>
+      </div>
+
+
+      <div style="display: flex; justify-content: center; margin-top: 20px;">
+        <iframe
+          src="https://tlk.io/westvalleyradio?embed=true"
+          width="70%"
+          height="450"
+          style="border: none; max-width: 700px;">
+        </iframe>
       </div>
 
   - type: DividerSection
