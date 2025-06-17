@@ -34,7 +34,7 @@ sections:
         borderColor: border-(--theme-primary)
         borderWidth: 6
         borderStyle: double
-        borderRadius: large
+        borderRadius: none
     type: HeroSection
     actions: []
     text: >+
