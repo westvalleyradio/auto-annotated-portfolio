@@ -37,7 +37,7 @@ sections:
         borderRadius: none
     type: HeroSection
     actions: []
-    text: >
+    text: >+
       <h1 style="font-size: 2.5rem; font-weight: bold; text-align: center;">
         <span style="background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); 
                      -webkit-background-clip: text;
@@ -51,9 +51,24 @@ sections:
       </div>
 
 
-      <iframe width="450px" height="250px" frameborder="0" scrolling="no"
-      marginheight="0" marginwidth="0" allowtransparency="true"
-      src="https://chatroll.com/embed/chat/west-valley-radio?id=oASwLHur4OG\&platform=html"></iframe>
+      <!DOCTYPE html>
+
+
+      <html>
+        <body>
+          <iframe
+            width="450"
+            height="350"
+            frameborder="0"
+            scrolling="no"
+            marginheight="0"
+            marginwidth="0"
+            allowtransparency="true"
+            src="https\://chatroll.com/embed/chat/west-valley-radio?id=oASwLHur4OG\&platform=html">
+          </iframe>
+        </body>
+      </html>
+
   - type: DividerSection
     title: Divider
     elementId: ''
