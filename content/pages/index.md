@@ -52,8 +52,10 @@ sections:
 
 
       <iframe
-        src="https://chatango.com/embed/chat?chat=westvalley\&style=smooth"
-        style="width:100%; height:500px; border:none;">
+        src="https\://tlk.io/westvalleyradio"
+        width="100%"
+        height="500"
+        style="border: none;">
       </iframe>
 
   - type: DividerSection
