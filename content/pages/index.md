@@ -38,24 +38,43 @@ sections:
     type: HeroSection
     actions: []
     text: >+
-      .pride-text {
+      <!DOCTYPE html>
 
-      font-size: 3rem;
 
-      font-weight: bold;
+      <html lang="en">
 
-      background-image: linear-gradient(to right, red, orange, yellow, green,
-      blue, indigo, violet);
+      <head>
+        <meta charset="UTF-8">
+        <title>Rainbow Text Test</title>
+        <style>
+          body {
+            background: #111;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+          }
 
-      background-clip: text;
+          h1.pride-text {
+            font-size: 4rem;
+            font-weight: bold;
+            background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+            background-clip: text;
+            -webkit-background-clip: text;
+            color: transparent;
+            -webkit-text-fill-color: transparent;
+          }
 
-      -webkit-background-clip: text;
+        </style>
+      </head>
 
-      color: transparent;
+      <body>
+        <h1 class="pride-text">West Valley Radio</h1>
+      </body>
 
-      -webkit-text-fill-color: transparent;
+      </html>
 
-      }
+
 
 
       <div style="max-width: 400px; margin: 20px auto; border-radius: 12px;
