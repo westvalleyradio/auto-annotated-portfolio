@@ -38,6 +38,24 @@ sections:
     type: HeroSection
     actions: []
     text: >+
+      .pride-text {
+
+      font-size: 3rem;
+
+      font-weight: bold;
+
+      background-image: linear-gradient(to right, red, orange, yellow, green,
+      blue, indigo, violet);
+
+      background-clip: text;
+
+      -webkit-background-clip: text;
+
+      color: transparent;
+
+      -webkit-text-fill-color: transparent;
+
+      }
 
 
       <div style="max-width: 400px; margin: 20px auto; border-radius: 12px;
