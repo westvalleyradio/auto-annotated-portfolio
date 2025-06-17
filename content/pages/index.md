@@ -37,34 +37,8 @@ sections:
         borderRadius: none
     type: HeroSection
     actions: []
-    text: >+
-      <html lang="en">
+    text: >2+
 
-      <head>
-        <meta charset="UTF-8">
-        <title>Rainbow Text Test</title>
-        <style>
-          body {
-            background: #111;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 50vh;
-          }
-
-      ```
-
-      h1.pride-text {
-        font-size: 4rem;
-        font-weight: bold;
-        background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
-        background-clip: text;
-        -webkit-background-clip: text;
-        color: transparent;
-        -webkit-text-fill-color: transparent;
-      }
-
-      ```
 
         </style>
       </head>
