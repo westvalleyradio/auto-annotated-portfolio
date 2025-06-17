@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: West Valley Radio
+    title: ''
     subtitle: ''
     styles:
       self:
@@ -31,10 +31,20 @@ sections:
           - pr-4
         flexDirection: row-reverse
         textAlign: center
+        borderColor: border-(--theme-light)
+        borderWidth: 0
+        borderStyle: double
+        borderRadius: none
     type: HeroSection
     actions: []
     text: >+
-      <div style="max-width: 400px; margin: 20px auto; border-radius: 12px;
+      <h1>
+        <span style="color: red;">W</span><span style="color: orange;">e</span><span style="color: yellow;">s</span><span style="color: green;">t</span>
+        <span style="color: blue;"> </span>
+        <span style="color: indigo;">V</span><span style="color: violet;">a</span><span style="color: red;">l</span><span style="color: orange;">l</span><span style="color: yellow;">e</span><span style="color: green;">y</span>
+        <span style="color: blue;"> </span>
+        <span style="color: indigo;">R</span><span style="color: violet;">a</span><span style="color: red;">d</span><span style="color: orange;">i</span><span style="color: yellow;">o</span>
+      </h1><div style="max-width: 400px; margin: 20px auto; border-radius: 12px;
       overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
         <iframe 
           src="https://media.streambrothers.com/AudioPlayer/8112?mount=stream" 
