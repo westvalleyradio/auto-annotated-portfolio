@@ -35,7 +35,7 @@ sections:
     actions: []
     text: |+
       <iframe 
-        src="https\://media.streambrothers.com/AudioPlayer/8112?mount=stream" 
+        src="https://media.streambrothers.com/AudioPlayer/8112?mount=stream" 
         width="100%" 
         height="120" 
         style="border: 0;">
