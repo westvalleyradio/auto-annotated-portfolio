@@ -53,9 +53,9 @@ sections:
 
       <div style="display: flex; justify-content: center; margin-top: 20px;">
         <iframe
-          src="https://tlk.io/westvalleyradio"
-          width="50%"
-          height="250"
+          src="https://tlk.io/westvalleyradio?embed=true"
+          width="70%"
+          height="450"
           style="border: none; max-width: 700px;">
         </iframe>
       </div>
