@@ -38,8 +38,6 @@ sections:
     type: HeroSection
     actions: []
     text: >+
-
-
       <html lang="en">
 
       <head>
@@ -51,7 +49,7 @@ sections:
             display: flex;
             justify-content: center;
             align-items: center;
-            height: 100vh;
+            height: 50vh;
           }
 
       ```
