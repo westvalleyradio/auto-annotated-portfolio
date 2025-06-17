@@ -37,7 +37,22 @@ sections:
         borderRadius: none
     type: HeroSection
     actions: []
-    text: "<h1 style=\"text-align: center; font-size: 2.5rem; font-weight: bold;\">\n  <span style=\"color: red;\">W</span><span style=\"color: orange;\">e</span><span style=\"color: yellow;\">s</span><span style=\"color: green;\">t</span>\\\_\n  <span style=\"color: blue;\">V</span><span style=\"color: indigo;\">a</span><span style=\"color: violet;\">l</span><span style=\"color: red;\">l</span><span style=\"color: orange;\">e</span><span style=\"color: yellow;\">y</span>\\\_\n  <span style=\"color: green;\">R</span><span style=\"color: blue;\">a</span><span style=\"color: indigo;\">d</span><span style=\"color: violet;\">i</span><span style=\"color: red;\">o</span>\n</h1>\n\n<div style=\"max-width: 400px; margin: 20px auto; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.2);\">\n  <iframe src=\"https://media.streambrothers.com/AudioPlayer/8112?mount=stream\" width=\"100%\" height=\"120\" style=\"border: 0;\"></iframe>\n</div>\n\n"
+    text: >+
+      <h1 style="font-size: 2.5rem; font-weight: bold; text-align: center;">
+        <span style="background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); 
+                     -webkit-background-clip: text;
+                     -webkit-text-fill-color: transparent;
+                     display: inline-block;">
+          West Valley Radio
+        </span>
+      </h1>
+
+
+      <div style="max-width: 400px; margin: 20px auto; border-radius: 12px;
+      overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+        <iframe src="https://media.streambrothers.com/AudioPlayer/8112?mount=stream" width="100%" height="120" style="border: 0;"></iframe>
+      </div>
+
   - type: DividerSection
     title: Divider
     elementId: ''
